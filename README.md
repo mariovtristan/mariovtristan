@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋,  I'm Mario Valencia</h1>
 <h2 align="center">A passionate Fullstack Software Engineer from Florida</h2>
 
-- 🌱 I’m currently learning **TypeScript and Swift**
+- 🌱 I’m currently learning **Swift and Typescript**
 
-- 💬 Ask me about **React, Node.js**
+- 💬 Ask me about **Swift, React, Node.js**
 
 - 📫 How to reach me: **mariovtristan@gmail.com**
 
