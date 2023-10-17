@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋,  I'm Mario Valencia</h1>
 <h2 align="center">A passionate Fullstack Software Engineer from Florida</h2>
 
-- 🌱 I’m currently learning **Swift and Typescript**
+- 🌱 I'm currently working on some **Swift / SwiftUI and Typescript** projects
 
 - 💬 Ask me about **Swift, React, Node.js**
 
